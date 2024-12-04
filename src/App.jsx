@@ -20,8 +20,8 @@ function App() {
 
   return (
     <>
-      <div className = "./images/cat.gif">
-      <img src="cat.gif"></img>
+      <div className = "catgif">
+      <img src="src/images/cat.gif"></img>
       </div>
       <div className="flex-container">
       <Heading title={"Cat Error Codes"} />
