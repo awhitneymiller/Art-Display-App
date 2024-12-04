@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <div className = "catgif">
+      <div className = "./images/cat.gif">
       <img src="cat.gif"></img>
       </div>
       <div className="flex-container">
